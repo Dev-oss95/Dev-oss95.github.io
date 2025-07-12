@@ -1,0 +1,10 @@
+#heading{
+color: red;
+}
+#box1{
+    background-color: aquamarine;
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
